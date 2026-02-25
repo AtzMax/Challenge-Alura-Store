@@ -17,7 +17,7 @@ Realizar un análisis detallado de los datos de ventas para:
 
 ##  Herramientas Utilizadas
 
-- **Python 3.x**
+- **Python 
 - **Pandas** (Procesamiento y limpieza de datos)
 - **Matplotlib** (Visualización de datos)
 
