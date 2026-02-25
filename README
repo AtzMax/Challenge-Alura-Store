@@ -1,0 +1,33 @@
+# ALURA STORE
+Desafío del curso ALURA programa ONE
+
+Este repositorio contiene el desarrollo del desafío parte del programa de formación en Data Science de Alura LATAM. El objetivo del desafío fue analizar los datos de ventas de cuatro tiendas de la cadena Alura Store y recomendar cuál debería ser vendida por el Sr. Juan, basándose en métricas clave.
+
+ El desafío pone en práctica habilidades de análisis de datos, visualización y generación de reportes utilizando herramientas de ciencia de datos.
+
+## Objetivo
+
+Realizar un análisis exploratorio y visual de los datos de ventas para:
+
+- Calcular ingresos totales por tienda.
+- Identificar productos y categorías más y menos vendidos.
+- Calcular calificaciones promedio por tienda.
+- Evaluar el costo de envío promedio por tienda.
+- Analizar los métodos de pago utilizados.
+
+## Herramientas utilizadas
+
+- Python
+- Pandas
+- Matplotlib
+
+
+## Conclusiones
+
+Tras evaluar todas las métricas, se recomendó vender la Tienda 4, ya que presenta:
+
+- Los ingresos más bajos.
+- Calificaciones de clientes  bajas.
+- Menor volumen y diversidad de productos vendidos.
+- Bajo uso de métodos de pago.
+
